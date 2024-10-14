@@ -1,4 +1,4 @@
-# british-airways--data-science-virtual-experience-program--forage
+# nlp-sentimental-analysis
 
 Welcome to the British Airways Data Science virtual experience programme!
 
